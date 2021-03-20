@@ -1,4 +1,3 @@
-# sparkstask1
 #SonalRao Bais Basic-Banking-System
 
 Sparks Foundation Internship Project : Basic Banking System
